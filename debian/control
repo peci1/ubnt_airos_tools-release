@@ -1,0 +1,12 @@
+Source: ros-noetic-ubnt-airos-tools
+Section: misc
+Priority: optional
+Maintainer: Martin Pecka <peckama2@fel.cvut.cz>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-catkin, ros-noetic-message-generation, ros-noetic-message-runtime, ros-noetic-std-msgs
+Homepage: https://github.com/peci1/ubnt_airos_tools
+Standards-Version: 3.9.2
+
+Package: ros-noetic-ubnt-airos-tools
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python3-requests, ros-noetic-message-runtime, ros-noetic-rospy, ros-noetic-std-msgs
+Description: Ubiquiti AirOS tools for extracting AP information to ROS

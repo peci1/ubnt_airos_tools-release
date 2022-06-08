@@ -1,0 +1,15 @@
+ros-noetic-ubnt-airos-tools (1.1.0-1buster) buster; urgency=high
+
+  * Noetic compatibility
+  * Contributors: Martin Pecka
+
+ -- Martin Pecka <peckama2@fel.cvut.cz>  Tue, 07 Jun 2022 22:00:00 -0000
+
+ros-noetic-ubnt-airos-tools (1.0.1-1buster) buster; urgency=high
+
+  * Initial commit.
+  * Contributors: Martin Pecka
+
+ -- Martin Pecka <peckama2@fel.cvut.cz>  Fri, 14 Feb 2020 23:00:00 -0000
+
+
